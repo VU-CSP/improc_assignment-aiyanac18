@@ -9,13 +9,13 @@ You can [download FIJI here](https://fiji.sc)
 #### *Task 1:*
 Answer the following questions about the [Phase contrast](image_files/PhaseContrast.tif) and [Differential interference contrast](image_files/DifferentialInterference.tif) images:
 Q1) What is the maximum intensity value in the [Differential interference contrast](image_files/DifferentialInterference.tif) file? 
-A1) Put your answer here.  
+A1) 255  
 
 Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.tif) file?  
-A2) Put your answer here in the form of (X, Y, BitDepth).  
+A2) (314, 226, BitDepth=8)  
 
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
-A3) Put your answer here.  
+A3) DiffInt
 
 #### *Task 2:*
 Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.tif) and convert all the signal in the red channel to the blue channel, export the file as a JPG and upload it to this repository in the [image_files](image_files) directory with the name "Composite.jpg".  
