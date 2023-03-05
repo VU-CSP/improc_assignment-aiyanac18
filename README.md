@@ -35,7 +35,7 @@ Also save the resultant "Count Mask" image file with the name "Count_Mask_229461
 ![](image_files/Count_Mask_22946173.tif)  
 
 Q4) How many particles were detected?  
-A4) Put your answer here.  
+A4) 1301 
 
 You will do a first-pass assessment of the segmentation output by analyzing the size of the particles using Python...  
 
